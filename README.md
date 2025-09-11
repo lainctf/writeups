@@ -17,7 +17,7 @@ To publish your post on https://lain-team.github.io/writeups/
 
 Install deps (once):
 ```bash
-npm run i
+npm i
 ```
 
 Build and run:
