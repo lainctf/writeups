@@ -1,10 +1,10 @@
 # Link
 
-https://lain-team.github.io/writeups/
+https://lainctf.github.io/writeups/
 
 # For lainons
 
-To publish your post on https://lain-team.github.io/writeups/
+To publish your post on https://lainctf.github.io/writeups/
 
 1. Create `src/content/blog/you-blog-post.md` file
 2. Write your post using `N0Ps-CTF-Web-Casino.md` for reference
