@@ -6,7 +6,7 @@ export const KNOWN_TECH =
     ",",
   );
 export const ABOUT_ME = 'Thread on <a style="text-decoration: underline" href="https://lainchan.org/sec/res/18888.html">lainchan.org</a>';
-export const GITHUB_USERNAME = "lain-team";
+export const GITHUB_USERNAME = "lainctf";
 export const QUOTE = "Let's all love Lain";
 export const NAV_LINKS: Array<{ title: string; href?: string }> = [
   {
